@@ -1,7 +1,6 @@
 Legende RP Server
 -------------------
-Change of the bank limit to 2 mio
-Cannabis comming soon
+Cannabis comming in a few days
 
 -------------------
 Teddys TO-DO Liste:
@@ -10,5 +9,6 @@ Teddys TO-DO Liste:
     Nokia Layout
     Nokia Kanäle einstellen Global Mute for palyers 
     Funkkanäle
+    KT Jukebox
 -------------------
 Made by KampfTeddy
