@@ -1,8 +1,10 @@
 Legende RP Server
 -------------------
-comming soon:
+out now:
 - KT Ammostacking
 - KT Stacking
+
+comming soon:
 - KT Fridge
 -------------------
 Made by KampfTeddy
